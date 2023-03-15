@@ -1,0 +1,4 @@
+[submodule "DataAnlysisModule"]
+	path = DataAnlysisModule
+	url = https://github.com/ahll19/DataAnlysisModule/
+	branch = Dev
